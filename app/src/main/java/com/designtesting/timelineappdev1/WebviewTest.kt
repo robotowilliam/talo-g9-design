@@ -22,6 +22,7 @@ import androidx.fragment.app.Fragment
 import androidx.appcompat.*
 import androidx.fragment.app.FragmentActivity
 
+//currently just loads Managebac website
 
 class WebviewTest : AppCompatActivity() {
 
